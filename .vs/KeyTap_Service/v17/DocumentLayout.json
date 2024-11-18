@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\KeyTap_Service\\",
+  "WorkspaceRootPath": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Models\\DBStructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Models\\DBStructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|c:\\users\\22gpsi3\\source\\repos\\keytap_service\\keytap_service\\models\\dbstructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:keytap_service\\models\\dbstructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\PortaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Controllers\\PortaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\DB\\KeyTapContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\DB\\KeyTapContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\DB\\KeyTapContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\DB\\KeyTapContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\PortaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Controllers\\PortaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Views\\App\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Views\\App\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\App\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Views\\App\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\AppController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Controllers\\AppController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\AppController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Controllers\\AppController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\ManageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Controllers\\ManageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\ManageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Controllers\\ManageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyTap_Service\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92BA96-D8B7-4359-AFEE-7FB84B4FCD33}|KeyTap_Service\\KeyTap_Service.csproj|solutionrelative:KeyTap_Service\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +66,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Startup.cs",
               "RelativeDocumentMoniker": "KeyTap_Service\\Startup.cs",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Startup.cs",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Startup.cs",
               "RelativeToolTip": "KeyTap_Service\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,11 +78,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "KeyTapContext.cs",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\DB\\KeyTapContext.cs",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\DB\\KeyTapContext.cs",
               "RelativeDocumentMoniker": "KeyTap_Service\\DB\\KeyTapContext.cs",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\DB\\KeyTapContext.cs",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\DB\\KeyTapContext.cs",
               "RelativeToolTip": "KeyTap_Service\\DB\\KeyTapContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,21 +92,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DBStructures.cs",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Models\\DBStructures.cs",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Models\\DBStructures.cs",
               "RelativeDocumentMoniker": "KeyTap_Service\\Models\\DBStructures.cs",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Models\\DBStructures.cs",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Models\\DBStructures.cs",
               "RelativeToolTip": "KeyTap_Service\\Models\\DBStructures.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAAANcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAgwKcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:49:52.634Z"
+              "WhenOpened": "2024-10-29T11:49:52.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PortaController.cs",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\PortaController.cs",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\PortaController.cs",
               "RelativeDocumentMoniker": "KeyTap_Service\\Controllers\\PortaController.cs",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\PortaController.cs",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\PortaController.cs",
               "RelativeToolTip": "KeyTap_Service\\Controllers\\PortaController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Views\\App\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\App\\Index.cshtml",
               "RelativeDocumentMoniker": "KeyTap_Service\\Views\\App\\Index.cshtml",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Views\\App\\Index.cshtml",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\App\\Index.cshtml",
               "RelativeToolTip": "KeyTap_Service\\Views\\App\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -128,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AppController.cs",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\AppController.cs",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\AppController.cs",
               "RelativeDocumentMoniker": "KeyTap_Service\\Controllers\\AppController.cs",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\AppController.cs",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\AppController.cs",
               "RelativeToolTip": "KeyTap_Service\\Controllers\\AppController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,9 +141,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "KeyTap_Service\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\HomeController.cs",
               "RelativeToolTip": "KeyTap_Service\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,9 +153,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ManageController.cs",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\ManageController.cs",
               "RelativeDocumentMoniker": "KeyTap_Service\\Controllers\\ManageController.cs",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\ManageController.cs",
               "RelativeToolTip": "KeyTap_Service\\Controllers\\ManageController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,21 +165,22 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Web.config",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Web.config",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Web.config",
               "RelativeDocumentMoniker": "KeyTap_Service\\Web.config",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Web.config",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Web.config",
               "RelativeToolTip": "KeyTap_Service\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-29T11:31:59.935Z"
+              "WhenOpened": "2024-10-29T11:31:59.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Web.config",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Views\\Web.config",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\Web.config",
               "RelativeDocumentMoniker": "KeyTap_Service\\Views\\Web.config",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\Web.config",
               "RelativeToolTip": "KeyTap_Service\\Views\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -188,9 +190,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KeyTap_Service\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KeyTap_Service\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -200,9 +202,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KeyTap_Service\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "KeyTap_Service\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -212,9 +214,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "KeyTap_Service\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\KeyTap_Service\\KeyTap_Service\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\22gpsi3\\source\\repos\\KeyTap_Service\\KeyTap_Service\\Controllers\\AccountController.cs",
               "RelativeToolTip": "KeyTap_Service\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAUwDcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

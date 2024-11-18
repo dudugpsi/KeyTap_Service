@@ -165,6 +165,7 @@ namespace KeyTap_Service.Models
             // desde as 7 da manhã às 10 da noite
         };
 
+        // Miau
         //Para pessoas que nao tem horario especifico
         [Required]
         public bool HVazio { get; set; }
