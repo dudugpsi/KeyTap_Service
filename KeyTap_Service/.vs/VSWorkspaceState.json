@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\KeyTap_Service",
+    "\\KeyTap_Service\\Controllers",
+    "\\KeyTap_Service\\DB",
+    "\\KeyTap_Service\\Models",
+    "\\KeyTap_Service\\Views",
+    "\\KeyTap_Service\\Views\\App",
+    "\\KeyTap_Service\\Views\\Shared"
+  ],
+  "SelectedNode": "\\KeyTap_Service\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
