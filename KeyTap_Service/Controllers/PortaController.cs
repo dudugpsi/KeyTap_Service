@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.WebPages;
 using KeyTap_Service.DB;
 using KeyTap_Service.Models;
 
@@ -13,13 +14,32 @@ namespace KeyTap_Service.Controllers
         private KeyTapContext db;
 
         // GET: Porta
-        public ActionResult Index()
-        {
-            return View();
-        }
+        //public ActionResult Index()
+        //{
+        //    return View();
+        //}
 
+
+        [HttpPost]
         public ActionResult AbrirPorta(string cartao, string porta)
         {
+            // Ver se os valores são válidos
+            // Este if verifica se os valores são nulos ou vazios
+            if (cartao == null || porta == null || cartao.IsEmpty() || porta.IsEmpty())
+            {
+                return Json(
+                new
+                {
+                    // Nega o abrir porta
+                    abrir = false,
+
+                    // Erro que indica que não não tem os valores necessários
+                    erro = 1
+                },
+                // Permite o retorno de informações através deste método
+                JsonRequestBehavior.AllowGet);
+            }
+
             // Encontrar o utilizador através do ^cartão que foi passado como argumento
             User user = db.Users.FirstOrDefault(u => u.IDCartao == cartao);
 
@@ -37,7 +57,7 @@ namespace KeyTap_Service.Controllers
                     abrir = false,
 
                     // Erro que indica que não encontrou user
-                    erro = 1
+                    erro = 2
                 },
                 // Permite o retorno de informações através deste método
                 JsonRequestBehavior.AllowGet);
@@ -53,6 +73,8 @@ namespace KeyTap_Service.Controllers
             {
                 var dia = ((int)dateTime.DayOfWeek);
 
+                // O horário tem um valor que é o dia da semana
+                // Ele vai buscar o horario em que o dia da semana corresponde ao dia de hoje
                 var horario = db.Horarios.FirstOrDefault(h => ((int)h.Dia) == dia && h.Ativo == true);
 
 
@@ -77,7 +99,7 @@ namespace KeyTap_Service.Controllers
                     new
                     {
                         abrir = false,
-                        erro = 2
+                        erro = 3
                     },
                     JsonRequestBehavior.AllowGet
                 );
@@ -88,7 +110,7 @@ namespace KeyTap_Service.Controllers
             return Json(
                 new {
                     abrir = false,
-                    erro = 3
+                    erro = 4
                 },
                 JsonRequestBehavior.AllowGet
             );
